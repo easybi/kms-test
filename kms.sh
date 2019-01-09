@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Dakkidaze <gioku@docomo.net.cn>
+# Author: Dakkidaze 
 
 DAEMON=/usr/local/kms/vlmcsd
 STAT=2
